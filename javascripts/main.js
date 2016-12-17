@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var sectionHeight = function() {
   var total    = $(window).height(),
       $section = $('section').css('height','auto');
@@ -51,3 +52,6 @@ fixScale = function(doc) {
     doc[addEvent](type, fix, true);
   }
 };
+=======
+console.log('This would be the main JS file.');
+>>>>>>> be899662283c151eb6d6e575c10947f3df098bc3
